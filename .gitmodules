@@ -1,0 +1,8 @@
+[submodule "tarunscode"]
+    path = somepublicstuff/tarunscode
+    url = https://github.com/eric-monchanin/em-tarun-sub.git
+
+[submodule "vikramscode"]
+    path = somepublicstuff/vikramscode
+    url = https://github.com/eric-monchanin/em-sub-vik.git
+
